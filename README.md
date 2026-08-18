@@ -1,6 +1,6 @@
-﻿<div align="center">
+<div align="center">
 
-# ðŸš¨ Bencana â€” Disaster Early Warning & Incident Response Portal
+#  Bencana " Disaster Early Warning & Incident Response Portal
 
 ### *Real-Time Disaster Mitigation, Shelter Management, & Disaster Tracking Platform*
 
@@ -14,32 +14,32 @@
 
 </div>
 
-## ðŸ“Œ About Bencana
+## " About Bencana
 
 **Bencana** is a web-based **Disaster Incident Tracking and Emergency Mitigation System** designed for disaster management agencies (BPBD), field officers, and citizens. It streamlines real-time disaster reporting, maps affected areas, tracks evacuation shelter capacities, and manages relief goods logistics.
 
 ---
 
-## âœ¨ Key Features
+##  Key Features
 
-### ðŸ“¡ 1. Real-Time Incident Reporting & Mapping
+### " 1. Real-Time Incident Reporting & Mapping
 - Interactive disaster map showing floods, landslides, earthquakes, and fires.
 - Citizen incident submission with GPS coordinates, photos, and severity level.
 - Verification workflow for field coordinators before public alert publication.
 
-### â›º 2. Evacuation Shelter Management
+###  2. Evacuation Shelter Management
 - Directory of active evacuation shelters with real-time capacity monitoring.
 - Track evacuee numbers categorized by age, gender, and medical needs.
 - Map directions and contact numbers for local emergency coordinators.
 
-### ðŸ“¦ 3. Relief Logistics & Supplies Inventory
+### " 3. Relief Logistics & Supplies Inventory
 - Warehouse inventory tracking for food rations, medicine, blankets, and clean water.
 - Aid distribution logs per shelter to prevent supply shortages.
 - Donation request and distribution transparency portal.
 
 ---
 
-## ðŸ› ï¸ Technology Stack
+##   Technology Stack
 
 | Layer | Technologies |
 | :--- | :--- |
@@ -50,25 +50,25 @@
 
 ---
 
-## ðŸ“‚ Repository Structure
+## " Repository Structure
 
 `
 bencana/
-â”œâ”€â”€ app/
-â”‚   â”œâ”€â”€ Http/Controllers/  # Incident, Shelter & Logistics Controllers
-â”‚   â””â”€â”€ Models/            # DisasterEvent, Shelter, Logistics Models
-â”œâ”€â”€ database/
-â”‚   â”œâ”€â”€ migrations/        # Tables for Incidents, Shelters & Supplies
-â”‚   â””â”€â”€ seeders/           # Initial Regional Data Seeders
-â”œâ”€â”€ resources/
-â”‚   â”œâ”€â”€ views/             # Responsive Public & Admin Dashboards
-â”‚   â””â”€â”€ js/                # Map Rendering Scripts
-â””â”€â”€ routes/web.php         # Public Incident Routes & BPBD Admin Portal
+""" app/
+"   """ Http/Controllers/  # Incident, Shelter & Logistics Controllers
+"   """" Models/            # DisasterEvent, Shelter, Logistics Models
+""" database/
+"   """ migrations/        # Tables for Incidents, Shelters & Supplies
+"   """" seeders/           # Initial Regional Data Seeders
+""" resources/
+"   """ views/             # Responsive Public & Admin Dashboards
+"   """" js/                # Map Rendering Scripts
+"""" routes/web.php         # Public Incident Routes & BPBD Admin Portal
 `
 
 ---
 
-## ðŸš€ Installation & Setup
+##  Installation & Setup
 
 `ash
 # 1. Clone Repository
@@ -93,12 +93,12 @@ php artisan serve
 
 ---
 
-## ðŸ“ License & Author
+## " License & Author
 
 Distributed under the **MIT License**.
 
-ðŸ‘¤ **Author**: [Pangeran Ryan Pahlevi](https://github.com/raphlv)  
-âœ‰ï¸ **Email**: [pangeranryan080504@gmail.com](mailto:pangeranryan080504@gmail.com)  
+' **Author**: [Pangeran Ryan Pahlevi](https://github.com/raphlv)  
+ **Email**: [pangeranryan080504@gmail.com](mailto:pangeranryan080504@gmail.com)  
 
 ---
 <div align="center">
