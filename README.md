@@ -1,4 +1,4 @@
-<div align="center">
+﻿<div align="center">
 
 # Bencana - Disaster Early Warning and Incident Response Portal
 
@@ -54,16 +54,16 @@ Bencana is a web-based Disaster Incident Tracking and Emergency Mitigation Syste
 
 `
 bencana/
-â”œâ”€â”€ app/
-â”‚   â”œâ”€â”€ Http/Controllers/  # Incident, Shelter and Logistics Controllers
-â”‚   â””â”€â”€ Models/            # DisasterEvent, Shelter, Logistics Models
-â”œâ”€â”€ database/
-â”‚   â”œâ”€â”€ migrations/        # Tables for Incidents, Shelters and Supplies
-â”‚   â””â”€â”€ seeders/           # Initial Regional Data Seeders
-â”œâ”€â”€ resources/
-â”‚   â”œâ”€â”€ views/             # Responsive Public and Admin Dashboards
-â”‚   â””â”€â”€ js/                # Map Rendering Scripts
-â””â”€â”€ routes/web.php         # Public Incident Routes and BPBD Admin Portal
+Ã¢â€Å“Ã¢â€â‚¬Ã¢â€â‚¬ app/
+Ã¢â€â€š   Ã¢â€Å“Ã¢â€â‚¬Ã¢â€â‚¬ Http/Controllers/  # Incident, Shelter and Logistics Controllers
+Ã¢â€â€š   Ã¢â€â€Ã¢â€â‚¬Ã¢â€â‚¬ Models/            # DisasterEvent, Shelter, Logistics Models
+Ã¢â€Å“Ã¢â€â‚¬Ã¢â€â‚¬ database/
+Ã¢â€â€š   Ã¢â€Å“Ã¢â€â‚¬Ã¢â€â‚¬ migrations/        # Tables for Incidents, Shelters and Supplies
+Ã¢â€â€š   Ã¢â€â€Ã¢â€â‚¬Ã¢â€â‚¬ seeders/           # Initial Regional Data Seeders
+Ã¢â€Å“Ã¢â€â‚¬Ã¢â€â‚¬ resources/
+Ã¢â€â€š   Ã¢â€Å“Ã¢â€â‚¬Ã¢â€â‚¬ views/             # Responsive Public and Admin Dashboards
+Ã¢â€â€š   Ã¢â€â€Ã¢â€â‚¬Ã¢â€â‚¬ js/                # Map Rendering Scripts
+Ã¢â€â€Ã¢â€â‚¬Ã¢â€â‚¬ routes/web.php         # Public Incident Routes and BPBD Admin Portal
 `
 
 ---
@@ -104,3 +104,5 @@ Email: pangeranryan080504@gmail.com
 <div align="center">
   <sub>Automated Sync Enabled for Contribution Tracking | Last Updated: 2026-08-18 14:40:47</sub>
 </div>
+
+<!-- Last updated: 2026-08-21 09:00:04 -->
