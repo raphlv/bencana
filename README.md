@@ -20,5 +20,38 @@ A Geographic Information System (GIS) disaster monitoring application developed 
 
 ---
 
+## Key Features
+
+- Real-Time Hydrology Telemetry: Logs water gate levels and hourly rainfall sensors across pos observation stations.
+- Early Warning Threshold Matrix: Color-coded alert triggers for Normal, Siaga 3, Siaga 2, and Siaga 1 conditions.
+- Interactive Spatial Heatmap: Leaflet GIS mapping with coordinate marker clustering and flood risk boundary polygons.
+- Data Export Module: Generate and export telemetry history into Excel/CSV for municipal disaster agency analysis.
+
+---
+
+## Technology Stack
+
+- Backend: Laravel 10 (PHP 8.2)
+- Database: MySQL with spatial geometry columns
+- GIS Mapping: Leaflet.js and OpenStreetMap
+- Styling: Tailwind CSS
+
+---
+
+## Getting Started
+
+`ash
+git clone https://github.com/raphlv/bencana.git
+cd bencana
+composer install
+npm install && npm run build
+cp .env.example .env
+php artisan key:generate
+php artisan migrate --seed
+php artisan serve
+`
+
+---
+
 ## Developer and Maintainer
 Pangeran Ryan Pahlevi - https://pangeranryan.vercel.app
