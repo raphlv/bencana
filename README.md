@@ -1,8 +1,8 @@
-﻿<div align="center">
+<div align="center">
 
-# Bencana GIS â€” Urban Flood & Rainfall Early Warning System
+# Bencana GIS - Urban Flood and Rainfall Early Warning System
 
-### *Geospatial Disaster Monitoring, Hydrology Telemetry, & Emergency Alerts*
+### *Geospatial Disaster Monitoring, Hydrology Telemetry, and Emergency Alerts*
 
 ![PHP](https://img.shields.io/badge/PHP-8.2-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-10.x-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
@@ -21,7 +21,4 @@ A Geographic Information System (GIS) disaster monitoring application developed 
 ---
 
 ## Developer and Maintainer
-Pangeran Ryan Pahlevi â€” https://pangeranryan.vercel.app
-
-<!-- Last verified: 2026-09-01 13:10:43 by Pangeran Ryan Pahlevi -->
-
+Pangeran Ryan Pahlevi - https://pangeranryan.vercel.app
